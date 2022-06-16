@@ -48,8 +48,8 @@
 # 🧑‍💻 Instalacion en termux
 ```cmd
 -> pkg install git
--> git clone https://github.com/NeKosmic/Quantum-Bot
--> cd Quantum-Bot
+-> git clone https://github.com/Ivan56x/Luis-Bot
+-> cd Luis-Bot
 -> bash install.sh
 -> npm start
 ```
