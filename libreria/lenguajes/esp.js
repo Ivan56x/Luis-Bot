@@ -320,7 +320,7 @@ exports.Wlc4 = () => {
   return `ADIOS... 😔`
 }
 exports.Wlc5 = (num) => {
-  return `[ ! ] C fue alv : @${num.split("@")[0]}`
+  return `[ ! ] 𝙷𝙰𝚂𝚃𝙰 𝙿𝚁𝙾𝙽𝚃𝙾 👋🏻 : @${num.split("@")[0]}`
 }
 exports.NoSpam1 = () => {
   return `*Espere unos segundos antes de usar otro comando ✓*`
