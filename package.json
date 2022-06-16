@@ -1,5 +1,5 @@
 {
-  "name": "Quantum-Bot",
+  "name": "Luis-Bot",
   "version": "1.0.0",
   "description": "Bot para Whatsapp en español y un poco multilingüe :v",
   "main": "Quantum.js",
@@ -17,7 +17,7 @@
     "bot",
     "whatsapp"
   ],
-  "author": "Matt_Mdz",
+  "author": "Luis",
   "license": "GNU",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
@@ -60,10 +60,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NeKosmic/Quantum-Bot.git"
+    "url": "git+https://github.com/Ivan56x/Luis-Bot.git"
   },
   "bugs": {
-    "url": "https://github.com/NeKosmic/Quantum-Bot/issues"
+    "url": "https://github.com/Ivan56x/Luis-Bot/issues"
   },
-  "homepage": "https://github.com/NeKosmic/Quantum-Bot#readme"
+  "homepage": "https://github.com/Ivan56x/Luis-Bot#readme"
 }
